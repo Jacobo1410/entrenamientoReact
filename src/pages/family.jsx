@@ -9,7 +9,7 @@ const Family = () => {
     return (
         <div className = "container py-5">
             <div className = "row">
-              <Title text = {"Home"} />
+              <Title text = {"Quinteto"} />
                 <div className = "col-md-12">
                     <ul>
                         <li> 
